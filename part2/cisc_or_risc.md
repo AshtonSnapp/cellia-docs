@@ -1,3 +1,0 @@
-# CISC or RISC
-
-TBW

@@ -1,3 +1,0 @@
-# Implementing Cellia
-
-TBW
